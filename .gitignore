@@ -108,3 +108,6 @@ ENV/
 *.config
 *.json
 docs/build/
+.twitter_keys.yaml
+.twitter_keys.last.yaml
+data

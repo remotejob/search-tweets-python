@@ -1,0 +1,9 @@
+
+search_params:
+    results-per-call: 100
+    max-results: 1000
+
+output_params:
+    save_file: True
+    filename_prefix: data/finbot
+    results_per_file: 100000000

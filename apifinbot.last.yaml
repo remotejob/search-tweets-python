@@ -1,0 +1,13 @@
+search_rules:
+    from-date: 2007-01-01
+    to-date: 2019-01-01
+    pt-rule: porno lang:fi
+
+search_params:
+    results-per-call: 100
+    max-results: 100
+
+output_params:
+    save_file: True
+    filename_prefix: finbot
+    results_per_file: 10000000
